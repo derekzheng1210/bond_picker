@@ -1,0 +1,11 @@
+__pycache__/
+*.pyc
+*.pyo
+.env
+venv/
+.venv/
+*.bak
+# 备份文件
+数据_备份_*.xlsx
+# 如需将Excel提交到Git则注释下面这行
+# 数据.xlsx
